@@ -1,6 +1,7 @@
 import React from "react";
 import { AiFillDelete } from "react-icons/ai";
 export default function ImgShow({id, imgURL, deletImage }) {
+  console.log(id)
   return (
     <>
       <img

@@ -3,8 +3,8 @@ import { BrowserRouter as Router,
   Routes,
   Route,
   useLocation, } from 'react-router-dom'
-  import { ToastContainer } from "react-toastify";
-import './App.css'
+  import { ToastContainer, toast } from "react-toastify";
+  import "react-toastify/dist/ReactToastify.css";import './App.css'
 import Home from './Page/Home/Home';
 import Header from './Components/Header/Header';
 
@@ -13,7 +13,7 @@ function App() {
 
   return (
    <>
-   <div className="w-full h-auto flex flex-col  bg-white">
+   <div className="w-full h-auto flex flex-col bg-zinc-800">
 
    <Router>
     <Header/>
