@@ -161,11 +161,17 @@ console.log(multipleData)
 
   const onSubmit = (e) => {
     e.preventDefault();
+    setIsLoadding(true)
     getRepoData();
+    setTimeout(() => {
+      setIsLoadding(false)
+    }, 3000);
     // Append the current formData to the existing multipleData array
   };
 
-  
+  if(isLoadding){
+    return <Loader/>
+  }
 
 
 
