@@ -8,17 +8,17 @@
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h1>
         <p align="center">
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" href="https://github.com/kopildas/furniture">
+            <a style="margin: 2rem;" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
             <!-- <a href="https://github.com/kopildas/unchat_frontend">
                 <img
