@@ -9,17 +9,30 @@
             Repositories</h1>
         <p align="center">
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div>
+                </a>
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div></a>
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div></a>
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div></a>
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div></a>
             <a href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
+                <div width="227">
+                  <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                </div></a>
             <!-- <a href="https://github.com/kopildas/unchat_frontend">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
