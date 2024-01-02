@@ -7,23 +7,26 @@
         <h1><img align="center" width="45"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h1>
-        <p align="center">
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <a style="margin: 10px;" width="230" href="https://github.com/kopildas/furniture">
-                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" /></a>
-            <!-- <a href="https://github.com/kopildas/unchat_frontend">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
-        </p>
+        <div align="center" style="display: flex; width: 100vh">
+            <div style="margin: 10divx;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+            <div style="margin: 10px;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+            <div style="margin: 10px;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+            <div style="margin: 10px;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+            <div style="margin: 10px;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+            <div style="margin: 10px;">
+                <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
+                <p>fsdfggsss</p></div>
+        </div>
     </div>
 
 
