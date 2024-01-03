@@ -7,26 +7,29 @@
         <h1><img align="center" width="45"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h1>
-        <div align="center" style="display: flex; width: 100vh">
-            <div style="margin: 10divx;">
+        <p align="center">
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-            <div style="margin: 10px;">
+                <p>fsdfggsss</p></a>
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-            <div style="margin: 10px;">
+                <p>fsdfggsss</p></a>
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-            <div style="margin: 10px;">
+                <p>fsdfggsss</p></a>
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-            <div style="margin: 10px;">
+                <p>fsdfggsss</p></a>
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-            <div style="margin: 10px;">
+                <p>fsdfggsss</p></a>
+            <a style="margin: 10px; border: 1px solid #FFFFFF;" width="230" href="https://github.com/kopildas/furniture">
                 <img width="225" height="300" src="https://i.ibb.co/3sH9V4J/benjamin-voros-X63-FTIZFb-Zo-unsplash.jpg" />
-                <p>fsdfggsss</p></div>
-        </div>
+                <p>fsdfggsss</p></a>
+            <!-- <a href="https://github.com/kopildas/unchat_frontend">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=kopildas&repo=unchat_frontend&theme=dark" /></a> -->
+        </p>
     </div>
 
 
